@@ -7,6 +7,6 @@
 
 ![image](https://user-images.githubusercontent.com/90021252/166434229-d4d3a61d-a9ce-462b-bd19-6f88992a7b7d.png)
 
-3. Se quita la imagen de la "X" para eliminar y se agrega en su lugar un botón:
+3. Se quita la imagen de la "X" para eliminar y se agrega en su lugar un botón que cumple con esta función:
 
 ![image](https://user-images.githubusercontent.com/90021252/166434707-2ced3038-fe6e-467c-bdfd-7b30f24d3767.png)
