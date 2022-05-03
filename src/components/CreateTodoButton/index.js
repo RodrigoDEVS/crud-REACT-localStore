@@ -1,5 +1,4 @@
 import React from 'react';
-import './CreateTodoButton.css';
 import {Button} from 'react-bootstrap'
 
 function CreateTodoButton(props) {
@@ -8,7 +7,7 @@ function CreateTodoButton(props) {
   };
 
   return (
-    <Button variant="success" className="CreateTodoButton" onClick={onClickButton}>Success</Button>
+    <Button variant="success" className="CreateTodoButton" onClick={onClickButton}>Agregar ToDo</Button>
     
   );
 }
