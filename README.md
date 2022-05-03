@@ -10,3 +10,7 @@
 3. Se quita la imagen de la "X" para eliminar y se agrega en su lugar un botón que cumple con esta función:
 
 ![image](https://user-images.githubusercontent.com/90021252/166434707-2ced3038-fe6e-467c-bdfd-7b30f24d3767.png)
+
+4. Se cambia el ícono del "+" por un botón de "Agregar ToDo":
+
+![image](https://user-images.githubusercontent.com/90021252/166439546-5564bab9-ce8f-41c2-a3e2-164114d3f4fa.png)
