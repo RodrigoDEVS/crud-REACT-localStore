@@ -1,5 +1,6 @@
 import React from 'react';
 import './CreateTodoButton.css';
+import {Button} from 'react-bootstrap'
 
 function CreateTodoButton(props) {
   const onClickButton = () => {
@@ -7,12 +8,8 @@ function CreateTodoButton(props) {
   };
 
   return (
-    <button
-      className="CreateTodoButton"
-      onClick={onClickButton}
-    >
-      +
-    </button>
+    <Button variant="success" className="CreateTodoButton" onClick={onClickButton}>Success</Button>
+    
   );
 }
 
