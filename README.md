@@ -14,3 +14,11 @@
 4. Se cambia el ícono del "+" por un botón de "Agregar ToDo":
 
 ![image](https://user-images.githubusercontent.com/90021252/166439546-5564bab9-ce8f-41c2-a3e2-164114d3f4fa.png)
+
+5. Se estilizó la barra de búsqueda para enfatizar su utilidad ya que tenía el aspecto de un campo de texto común.
+
+![image](https://user-images.githubusercontent.com/90021252/166445202-2825abdb-57e1-41a5-98a4-de2fb23593ce.png)
+
+6. Se incluyeron los ToDo List dentro de un formulario desactivado para que se vieran mas organizados pero que aún así no pudieran ser modificados.
+
+![image](https://user-images.githubusercontent.com/90021252/166448213-6644d67b-b810-40f7-bb0b-9299dc4a3510.png)
