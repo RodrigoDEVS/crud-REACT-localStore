@@ -22,3 +22,7 @@
 6. Se incluyeron los ToDo List dentro de un formulario desactivado para que se vieran mas organizados pero que aún así no pudieran ser modificados.
 
 ![image](https://user-images.githubusercontent.com/90021252/166448213-6644d67b-b810-40f7-bb0b-9299dc4a3510.png)
+
+7. Como otra opción se encapsulan los TODO en una tabla con información de cabecera para mayor información
+
+![image](https://user-images.githubusercontent.com/90021252/166452868-b2c66d01-5636-4c07-a33e-3863c9913520.png)
